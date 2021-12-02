@@ -2,7 +2,7 @@
 
 #include "eval.hpp"
 
-int ubhd(char symbol, Colour colour, ChessBoard* board) {
+int some_number(char symbol, Colour colour, ChessBoard* board) {
 	int num = 0;
 	
 	for (int i = 0; i < 8; i++) { 
